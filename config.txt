@@ -1,0 +1,5 @@
+\query\example1.query
+\data\10wData.stream
+1
+1
+\result\result.txt
