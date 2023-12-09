@@ -1,0 +1,4 @@
+C:\Users\jsw\source\repos\querynew\x64\Debug\querynew.exe
+E:\comfromjsw\code\querynew\x64\Debug\querynew.exe
+E:\comfromjsw\code\final\x64\Debug\querynew.exe
+E:\comfromjsw\code\BitCEP\x64\Debug\BitCEP.exe

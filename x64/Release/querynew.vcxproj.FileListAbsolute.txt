@@ -1,0 +1,5 @@
+E:\comfromjsw\code\querynew\x64\Release\querynew.exe
+E:\comfromjsw\code\guifan\x64\Release\querynew.exe
+E:\comfromjsw\code\xiugai\x64\Release\querynew.exe
+E:\comfromjsw\code\final\x64\Release\querynew.exe
+E:\comfromjsw\code\BitCEP\x64\Release\BitCEP.exe

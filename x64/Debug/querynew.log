@@ -1,0 +1,81 @@
+﻿D:\vs2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(querynew.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  bitSequence.cpp
+D:\vs2022\VC\Tools\MSVC\14.36.32532\include\bit(12): warning STL4038: The contents of <bit> are available only with C++20 or later.
+D:\vs2022\VC\Tools\MSVC\14.36.32532\include\variant(13): warning STL4038: The contents of <variant> are available only with C++17 or later.
+E:\comfromjsw\code\BitCEP\bitSequence.cpp(30,29): warning C4244: “参数”: 从“int”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+E:\comfromjsw\code\BitCEP\bitSequence.cpp(42,37): warning C4244: “参数”: 从“int”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+E:\comfromjsw\code\BitCEP\bitSequence.cpp(51,31): warning C4244: “参数”: 从“int”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+E:\comfromjsw\code\BitCEP\bitSequence.cpp(120,39): warning C4244: “=”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+E:\comfromjsw\code\BitCEP\bitSequence.cpp(190,10): warning C4244: “初始化”: 从“ULONGLONG”转换到“long”，可能丢失数据
+  bitParellMatch.cpp
+D:\vs2022\VC\Tools\MSVC\14.36.32532\include\bit(12): warning STL4038: The contents of <bit> are available only with C++20 or later.
+D:\vs2022\VC\Tools\MSVC\14.36.32532\include\variant(13): warning STL4038: The contents of <variant> are available only with C++17 or later.
+E:\comfromjsw\code\BitCEP\bitParellMatch.cpp(62,38): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+  fileio.cpp
+D:\vs2022\VC\Tools\MSVC\14.36.32532\include\bit(12): warning STL4038: The contents of <bit> are available only with C++20 or later.
+D:\vs2022\VC\Tools\MSVC\14.36.32532\include\variant(13): warning STL4038: The contents of <variant> are available only with C++17 or later.
+  Match.cpp
+D:\vs2022\VC\Tools\MSVC\14.36.32532\include\bit(12): warning STL4038: The contents of <bit> are available only with C++20 or later.
+D:\vs2022\VC\Tools\MSVC\14.36.32532\include\variant(13): warning STL4038: The contents of <variant> are available only with C++17 or later.
+E:\comfromjsw\code\BitCEP\Match.cpp(14,10): warning C4244: “初始化”: 从“ULONGLONG”转换到“long”，可能丢失数据
+E:\comfromjsw\code\BitCEP\Match.cpp(65,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\comfromjsw\code\BitCEP\Match.cpp(68,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\comfromjsw\code\BitCEP\Match.cpp(244,10): warning C4244: “初始化”: 从“ULONGLONG”转换到“long”，可能丢失数据
+E:\comfromjsw\code\BitCEP\Match.cpp(309,10): warning C4244: “初始化”: 从“ULONGLONG”转换到“long”，可能丢失数据
+E:\comfromjsw\code\BitCEP\Match.cpp(314,10): warning C4244: “初始化”: 从“ULONGLONG”转换到“long”，可能丢失数据
+E:\comfromjsw\code\BitCEP\Match.cpp(365,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\comfromjsw\code\BitCEP\Match.cpp(367,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\comfromjsw\code\BitCEP\Match.cpp(468,91): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+E:\comfromjsw\code\BitCEP\Match.cpp(469,108): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+E:\comfromjsw\code\BitCEP\Match.cpp(499,90): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+E:\comfromjsw\code\BitCEP\Match.cpp(500,107): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+E:\comfromjsw\code\BitCEP\Match.cpp(619,10): warning C4244: “初始化”: 从“ULONGLONG”转换到“long”，可能丢失数据
+E:\comfromjsw\code\BitCEP\Match.cpp(684,10): warning C4244: “初始化”: 从“ULONGLONG”转换到“long”，可能丢失数据
+  global.cpp
+D:\vs2022\VC\Tools\MSVC\14.36.32532\include\bit(12): warning STL4038: The contents of <bit> are available only with C++20 or later.
+D:\vs2022\VC\Tools\MSVC\14.36.32532\include\variant(13): warning STL4038: The contents of <variant> are available only with C++17 or later.
+E:\comfromjsw\code\BitCEP\global.cpp(17,12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  parseData.cpp
+D:\vs2022\VC\Tools\MSVC\14.36.32532\include\bit(12): warning STL4038: The contents of <bit> are available only with C++20 or later.
+D:\vs2022\VC\Tools\MSVC\14.36.32532\include\variant(13): warning STL4038: The contents of <variant> are available only with C++17 or later.
+E:\comfromjsw\code\BitCEP\parseData.cpp(24,10): warning C4244: “初始化”: 从“ULONGLONG”转换到“long”，可能丢失数据
+E:\comfromjsw\code\BitCEP\parseData.cpp(26,10): warning C4244: “初始化”: 从“ULONGLONG”转换到“long”，可能丢失数据
+E:\comfromjsw\code\BitCEP\parseData.cpp(95,38): warning C4244: “参数”: 从“int”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+  parseQuery.cpp
+D:\vs2022\VC\Tools\MSVC\14.36.32532\include\bit(12): warning STL4038: The contents of <bit> are available only with C++20 or later.
+D:\vs2022\VC\Tools\MSVC\14.36.32532\include\variant(13): warning STL4038: The contents of <variant> are available only with C++17 or later.
+E:\comfromjsw\code\BitCEP\parseQuery.cpp(38,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\comfromjsw\code\BitCEP\parseQuery.cpp(39,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\comfromjsw\code\BitCEP\parseQuery.cpp(92,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  parseResult.cpp
+D:\vs2022\VC\Tools\MSVC\14.36.32532\include\bit(12): warning STL4038: The contents of <bit> are available only with C++20 or later.
+D:\vs2022\VC\Tools\MSVC\14.36.32532\include\variant(13): warning STL4038: The contents of <variant> are available only with C++17 or later.
+E:\comfromjsw\code\BitCEP\parseResult.cpp(17,18): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+E:\comfromjsw\code\BitCEP\parseResult.cpp(20,25): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  正在生成代码...
+E:\comfromjsw\code\BitCEP\parseQuery.cpp(34): warning C4715: “query::parseFastQueryLine”: 不是所有的控件路径都返回值
+  querynew.vcxproj -> E:\comfromjsw\code\BitCEP\x64\Debug\BitCEP.exe
